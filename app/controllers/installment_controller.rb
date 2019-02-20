@@ -1,0 +1,2 @@
+class InstallmentController < ApplicationController
+end
