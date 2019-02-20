@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  present_value: 1
+  number_of_installments: 9.99
+  monthly_interest_rate: 9.99
+
+two:
+  present_value: 1
+  number_of_installments: 9.99
+  monthly_interest_rate: 9.99
